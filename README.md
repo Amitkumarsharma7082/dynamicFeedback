@@ -45,14 +45,6 @@ A beautiful, customizable feedback widget that can be embedded into any website,
 
 4. Open your browser and navigate to `http://localhost:8080`
 
-## Project Structure
-
-- `/src/components/widget/` - Feedback widget components
-- `/src/components/admin/` - Admin dashboard components
-- `/src/services/` - API and authentication services
-- `/src/pages/` - Main application pages
-- `/src/types/` - TypeScript type definitions
-
 ## Using the Widget
 
 The feedback widget is embedded on the index page for demonstration. In a real-world scenario, you would:
